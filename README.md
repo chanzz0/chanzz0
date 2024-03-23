@@ -20,7 +20,7 @@ I'm also an amateur programmer, I guess.
 
 [Math Projects](https://github.com/chanzz0/Math-Project): ![GitHub repo size](https://img.shields.io/github/repo-size/chanzz0/Math-Project) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/chanzz0/Math-Project)
 
-[My Cryptology Tools](https://github.com/chanzz0/My-Cryptology-Tools): ![GitHub repo size](https://img.shields.io/github/repo-size/chanzz0/My-Cryptology-Tools) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/chanzz0/My-Cryptology-Tools) [![C/C++ CI](https://github.com/chanzz0/My-Cryptology-Tools/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chanzz0/My-Cryptology-Tools/actions/workflows/c-cpp.yml)
+[Cryptology Tools](https://github.com/chanzz0/My-Cryptology-Tools): ![GitHub repo size](https://img.shields.io/github/repo-size/chanzz0/My-Cryptology-Tools) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/chanzz0/My-Cryptology-Tools) [![C/C++ CI](https://github.com/chanzz0/My-Cryptology-Tools/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chanzz0/My-Cryptology-Tools/actions/workflows/c-cpp.yml)
 
 [Automation Tools](https://github.com/chanzz0/Automation-Tools): **(Moved)**
 
