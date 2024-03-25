@@ -17,7 +17,7 @@ I'm also an amateur programmer, I guess.
 
 [Chänzz's Homepage](https://github.com/chanzz0/chanzz0.github.io): ![GitHub repo size](https://img.shields.io/github/repo-size/chanzz0/chanzz0.github.io) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/chanzz0/chanzz0.github.io) [![pages-build-deployment](https://github.com/chanzz0/chanzz0.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/chanzz0/chanzz0.github.io/actions/workflows/pages/pages-build-deployment)
 
-[![push](https://github.com/chanzz0/Backup-Copy/actions/workflows/push.yml/badge.svg)](https://github.com/chanzz0/Backup-Copy/actions/workflows/push.yml)
+The Hanky project: [![push](https://github.com/chanzz0/Backup-Copy/actions/workflows/push.yml/badge.svg)](https://github.com/chanzz0/Backup-Copy/actions/workflows/push.yml)
 
 [Math Projects](https://github.com/chanzz0/Math-Project): ![GitHub repo size](https://img.shields.io/github/repo-size/chanzz0/Math-Project) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/chanzz0/Math-Project)
 
