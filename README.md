@@ -12,6 +12,7 @@ I'm also an amateur programmer, I guess.
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/chanzz0/chanzz-notebook" height="48px">
 <img src="https://img.shields.io/github/last-commit/chanzz0/chanzz-notebook" alt="Last update" height="48px">
 </p>
+
 ## About Some Projects
 
 [Chänzz's Homepage](https://github.com/chanzz0/chanzz0.github.io): ![GitHub repo size](https://img.shields.io/github/repo-size/chanzz0/chanzz0.github.io) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/chanzz0/chanzz0.github.io) [![Deploy GitHub Pages](https://github.com/chanzz0/chanzz0.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main)](https://github.com/chanzz0/chanzz0.github.io/actions/workflows/jekyll-gh-pages.yml)
