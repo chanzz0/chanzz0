@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I am [Chänzz](https://chanzz0.github.io), an undergraduate student. You can find me in the following places: 
+I am [Chänzz](https://chanzz0.github.io), an undergraduate student. 
 
 I'm also an amateur programmer, I guess. 
 
