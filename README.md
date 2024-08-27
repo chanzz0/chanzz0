@@ -15,7 +15,7 @@ I'm also an amateur programmer, I guess.
 
 ## About Some Projects
 
-[Chänzz's Homepage](https://github.com/chanzz0/chanzz0.github.io): It moved to [zwchen.pages.dev](https://https://zwchen.pages.dev).
+[Chänzz's Homepage](https://github.com/chanzz0/chanzz0.github.io): It moved to [zwchen.pages.dev](https://zwchen.pages.dev).
 
 [Cryptology Tools](https://github.com/chanzz0/My-Cryptology-Tools): ![GitHub repo size](https://img.shields.io/github/repo-size/chanzz0/My-Cryptology-Tools) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/chanzz0/My-Cryptology-Tools) [![C/C++ CI](https://github.com/chanzz0/My-Cryptology-Tools/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chanzz0/My-Cryptology-Tools/actions/workflows/c-cpp.yml)
 
