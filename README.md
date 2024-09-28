@@ -1,8 +1,12 @@
 # 👋 Hi there
 
-I am [Chänzz](https://chanzz0.github.io), an undergraduate student. 
+I am [Chänzz](https://chanzz0.github.io), an undergraduate student.
 
-I'm also an amateur programmer, I guess. 
+I'm also an amateur programmer, I guess.
+
+[Chänzz's Homepage](https://github.com/chanzz0/chanzz0.github.io): It moved to [zwchen.pages.dev](https://zwchen.pages.dev).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanzz0&layout=compact)](https://github.com/chanzz0/github-readme-stats)
 
 ## About Chänzz's Notebook
 
@@ -15,14 +19,9 @@ I'm also an amateur programmer, I guess.
 
 ## About Some Projects
 
-[Chänzz's Homepage](https://github.com/chanzz0/chanzz0.github.io): It moved to [zwchen.pages.dev](https://zwchen.pages.dev).
-
 [Cryptology Tools](https://github.com/chanzz0/My-Cryptology-Tools): ![GitHub repo size](https://img.shields.io/github/repo-size/chanzz0/My-Cryptology-Tools) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/chanzz0/My-Cryptology-Tools) [![C/C++ CI](https://github.com/chanzz0/My-Cryptology-Tools/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chanzz0/My-Cryptology-Tools/actions/workflows/c-cpp.yml)
 
 [Automation Tools](https://github.com/chanzz0/Automation-Tools): **(Moved)**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanzz0&layout=compact)](https://github.com/chanzz0/github-readme-stats)
-
 
 <!--
 **chanzz0/chanzz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
