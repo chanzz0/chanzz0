@@ -2,9 +2,9 @@
 
 I am [Chänzz](https://chanzz0.github.io), an undergraduate student.
 
-I'm also an amateur programmer, I guess.
+I often use Python3 to write programs about cryptographic algorithms (related to my thesis).
 
-[Chänzz's Homepage](https://github.com/chanzz0/chanzz0.github.io): It moved to [zwchen.pages.dev](https://zwchen.pages.dev).
+My homepage has been moved from [chanzz0.github.io](https://github.com/chanzz0/chanzz0.github.io) to [zwchen.pages.dev](https://zwchen.pages.dev).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanzz0&layout=compact)](https://github.com/chanzz0/github-readme-stats)
 
