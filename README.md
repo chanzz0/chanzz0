@@ -19,7 +19,7 @@ My homepage has been moved from [chanzz0.github.io](https://github.com/chanzz0/c
 
 ## About Some Projects
 
-[Cryptology Tools](https://github.com/chanzz0/My-Cryptology-Tools): ![GitHub repo size](https://img.shields.io/github/repo-size/chanzz0/My-Cryptology-Tools) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/chanzz0/My-Cryptology-Tools) [![C/C++ CI](https://github.com/chanzz0/My-Cryptology-Tools/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chanzz0/My-Cryptology-Tools/actions/workflows/c-cpp.yml)
+[Cryptology Tools](https://github.com/chanzz0/My-Cryptology-Tools): Sorry, there was an irreversible error in this algorithm, and I deleted the entire repository.
 
 [Automation Tools](https://github.com/chanzz0/Automation-Tools): **(Moved)**
 
