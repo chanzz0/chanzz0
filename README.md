@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I am [Chänzz](https://chanzz0.github.io), an undergraduate student.
+I am [Aaron Chan](https://chanzz0.github.io), an undergraduate student.
 
 - 🌱 I’m currently learning Go and Rust.
 - 🤔 I often use Python3 to write programs about cryptographic algorithms (related to my undergraduate thesis).
@@ -9,13 +9,13 @@ My homepage has been moved from [chanzz0.github.io](https://github.com/chanzz0/c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanzz0&layout=compact)](https://github.com/chanzz0/github-readme-stats)
 
-## About Chänzz's Notebook
+## About Aaron's Notebook
 
-[Chänzz's Notebook](https://github.com/chanzz0/chanzz-notebook)
+[Aaron's Notebook](https://github.com/chanzz0/aaron-notebook)
 
 <p align="center">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/chanzz0/chanzz-notebook" height="48px">
-<img src="https://img.shields.io/github/last-commit/chanzz0/chanzz-notebook" alt="Last update" height="48px">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/chanzz0/aaron-notebook" height="48px">
+<img src="https://img.shields.io/github/last-commit/chanzz0/aaron-notebook" alt="Last update" height="48px">
 </p>
 
 ## About Some Projects
