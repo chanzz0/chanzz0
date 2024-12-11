@@ -8,10 +8,10 @@ I am [Aaron Chan](https://chanzz0.github.io), an undergraduate student.
 - 📫 How to reach me: [e-mail](chanzz1@foxmail.com)
 - ⚡ Fun fact: I'm a full-time daydreamer, programming for fun.
 
-My homepage has been moved from [chanzz0.github.io](https://github.com/chanzz0/chanzz0.github.io) to [zwchen.pages.dev](https://zwchen.pages.dev).
+My homepage has been moved from [chanzz0.github.io](https://github.com/chanzz0/chanzz0.github.io) to [zwchen.pages.dev](https://zwchen.pages.dev/).
 
 - [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org) [![OS:Windows10](https://img.shields.io/badge/OS-Windows10-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com) [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-purple?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
-- [![email](https://img.shields.io/badge/Email-chanzz1@foxmail.com-pink?style=flat-square)](mailto:chanzz1@foxmail.com) [![Homepage](https://img.shields.io/badge/Homepage-https://zwchen.pages.dev-red?style=flat-square)](https://zwchen.pages.dev)
+- [![email](https://img.shields.io/badge/Email-chanzz1@foxmail.com-pink?style=flat-square)](mailto:chanzz1@foxmail.com) [![Homepage](https://img.shields.io/badge/Homepage-https://zwchen.pages.dev/-red?style=flat-square)](https://zwchen.pages.dev/)
 
 ## About Some Projects
 
