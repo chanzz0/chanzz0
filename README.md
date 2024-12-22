@@ -29,7 +29,7 @@ My homepage has been moved from [chanzz0.github.io](https://github.com/chanzz0/c
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanzz0&repo=Mini-STL)](https://github.com/chanzz0/Mini-STL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanzz0&repo=learn-git)](https://github.com/chanzz0/learn-git)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanzz0&repo=articles)](https://github.com/chanzz0/articles) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanzz0&repo=hello-world)](https://github.com/chanzz0/hello-world)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanzz0&repo=Mini-STL)](https://github.com/chanzz0/Mini-STL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanzz0&repo=learn-git)](https://github.com/chanzz0/learn-git)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanzz0&repo=articles)](https://github.com/chanzz0/articles) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanzz0&repo=hello-world)](https://github.com/chanzz0/hello-world) -->
 
 <!-- 隐藏显示的语言有：shell, tex, makefile -->
 
