@@ -11,7 +11,7 @@ I am [Aaron Chan](https://chanzz0.github.io), an undergraduate student.
 My homepage has been moved from [chanzz0.github.io](https://github.com/chanzz0/chanzz0.github.io) to [zwchen.pages.dev](https://zwchen.pages.dev/).
 
 - [![OS:Debian](https://img.shields.io/badge/OS-Debian-blue?style=flat-square&logo=debian)](https://www.debian.org/) [![OS:Arch](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org) [![OS:Win10](https://img.shields.io/badge/OS-Windows10-blue?style=flat-square)](https://www.microsoft.com) [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-purple?style=flat-square)](https://code.visualstudio.com/)
-- [![Email](https://img.shields.io/badge/Email-chanzz1@foxmail.com-pink?style=flat-square)](mailto:chanzz1@foxmail.com)
+- [![Email](https://img.shields.io/badge/Email-amazon.skipper492@passinbox.com-pink?style=flat-square)](mailto:amazon.skipper492@passinbox.com) [![Email](https://img.shields.io/badge/Email-chanzz1@foxmail.com-pink?style=flat-square)](mailto:chanzz1@foxmail.com)
 - [![Homepage](https://img.shields.io/badge/Homepage-zwchen.pages.dev-red?style=flat-square)](https://zwchen.pages.dev/) [![Blog](https://img.shields.io/badge/Blog-chanzzblog.pages.dev-green?style=flat-square)](https://chanzzblog.pages.dev/)
 
 ### Math
